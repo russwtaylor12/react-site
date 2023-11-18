@@ -1,7 +1,7 @@
 {
   "name": "react-site",
   "version": "0.1.0",
-  "homepage": "https://russwtaylor12.github.io/react-site",
+  "homepage": "https://russwtaylor.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
